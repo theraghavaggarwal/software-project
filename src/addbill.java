@@ -22,6 +22,7 @@ public class addbill extends bmain  {
 		
 		
 		
+		
 		JFrame fa=new JFrame("Add Bill");
 		JPanel pan=new JPanel();
 		pan.setLayout(null);
